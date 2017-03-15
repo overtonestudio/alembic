@@ -8,17 +8,17 @@ excerpt:
 
 Lo studio ha la possibilità di registrazione in due modalità:
 
-#####Live Multitraccia
+##### Live Multitraccia
 
 Avrete la possibilità di registrare la vostra musica in un Live in Studio, prestando la massima cura al suono originale della band.
 
-#####Sovraincisione Multitraccia
+##### Sovraincisione Multitraccia
 
 Potrete registrare ogni singolo strumento al fine di conservare e ottimizzare il proprio suono.
 
-####Ingeniere del Suono: Stefano Segatori
+#### Ingeniere del Suono: Stefano Segatori
 
-#####Attrezzatura:
+##### Attrezzatura:
 
 Computer: Mac 
 
@@ -36,7 +36,7 @@ Amplificatore:  Nad
 
 Microfoni: AKG - Shure - DPA
 
-#####Sala Ripresa
+##### Sala Ripresa
 
 La sala di ripresa è acusticamente trattata, rispettando la natura dei suoni da registrare. 
 
