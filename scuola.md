@@ -48,5 +48,11 @@ Nel 2004 si diploma in chitarra, teoria e arrangiamento (Percentomusica di Roma)
 
 ##### Mirko Amabili
 
+Mirko Amabili inizia l' approccio alla batteria all'età di 18 anni, nel gennaio 2000. Dal 2002 al 2009 frequenta ininterrottamente i corsi di batteria e solfeggio ritmico presso il Maestro Massimo Carloni. Perfeziona i suoi studi partecipando a seminari di autorevoli batteristi della scena internazionale, come: Dave Weckl, Vinnie Colaiuta, Peter Erskine, Gary Novak, Bill Stewart, Christian Meyer, Massimo Manzi ecc.
+Nel 2006 frequenta i corsi estivi del Berklee a Perugia, durante Umbria Jazz.
+Ha effettuato varie esperienze artistiche con ottime formazioni locali di musica rock, jazz, funk ecc.
+In campo jazzistico vanta collaborazioni con artisti del calibro di Bob Ferrazza, Giacinto Cistola, Geoff Warren, Marcello Sebastiani, Marco Galiffa ecc. 
+Oltre che come musicista, porta avanti la sua attività di didatta presso alcune scuole di musica di Montalto Marche, San Benedetto del Tronto e Monteprandone.
+
 ---
 
