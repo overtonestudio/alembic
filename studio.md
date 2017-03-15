@@ -16,8 +16,6 @@ Avrete la possibilità di registrare la vostra musica in un Live in Studio, pres
 
 Potrete registrare ogni singolo strumento al fine di conservare e ottimizzare il proprio suono.
 
-#### Ingeniere del Suono: Stefano Segatori
-
 ##### Attrezzatura:
 
 Computer: Mac 
@@ -40,5 +38,5 @@ Microfoni: AKG - Shure - DPA
 
 La sala di ripresa è acusticamente trattata, rispettando la natura dei suoni da registrare. 
 
-
+#### Ingeniere del Suono: Stefano Segatori
 
