@@ -3,7 +3,7 @@ title: Home
 feature_text: |
   ## Overtones Studio
   Industrial Studio Digital Recording
-feature_image: /images/img6.jpg
+feature_image:
 
 excerpt: 
 ---
