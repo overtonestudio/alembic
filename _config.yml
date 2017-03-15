@@ -93,6 +93,11 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 # 8. Site navigation
 navigation_header:
   Home: /
+  Storia: /storia
+  Sala Prove: /sala
+  Studio: /studio
+  Ricerca: /ricerca
+  Contatti: /contatti
   #Elements: /elements/
   #Blog: /blog/
   #Categories: /categories/
