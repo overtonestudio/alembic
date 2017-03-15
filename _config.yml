@@ -88,7 +88,7 @@ url: "https://overtones.github.it" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 disqus: "alembic-1"
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: #"https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
@@ -112,7 +112,7 @@ social_links:
   #Twitter: https://twitter.com/DavidDarnes
   #LinkedIn: https://www.linkedin.com/in/daviddarnes
   #Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
+  GitHub: https://github.com/overtonestudio
   facebook: https://www.facebook.com/Overtonestudio-Overtones-700020233438442/?fref=ts
   #link: https://darn.es
 
