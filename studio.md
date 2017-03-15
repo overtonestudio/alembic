@@ -6,7 +6,7 @@ feature_image: /images/img4.jpg
 excerpt: 
 ---
 
-Lo studio ha la possibilità di registrazione in due modalità:
+Lo studio ha la possibilità di registrare in due modalità:
 
 ##### Live Multitraccia
 
